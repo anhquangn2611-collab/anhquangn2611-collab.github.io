@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Học vấn
+* **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
+  * Chuyên ngành: Kỹ thuật (IoT & Hệ thống nhúng)
+  * Thời gian: 2023 - Hiện tại (Sinh viên năm 3)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🛠️ Kỹ năng
+| Lĩnh vực | Công nghệ & Công cụ |
+|---|---|
+| **Lập trình** | C/C++, Arduino, HTML cơ bản |
+| **Phần cứng** | Vi điều khiển (Arduino Uno, ESP32), Cảm biến (LM35, DHT) |
+| **Công cụ** | Git, GitHub, VS Code, Notepad |
+| **Quy trình** | Quản lý dự án, Phân tích dữ liệu JSON |
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🚀 Dự án tiêu biểu
+### **Dự án E-Nanny: Giám sát nhiệt độ trẻ nhỏ thông minh**
+* **Mô tả:** Hệ thống thu thập dữ liệu nhiệt độ thời gian thực giúp phụ huynh theo dõi sức khỏe trẻ nhỏ qua cảm biến.
+* **Công nghệ:** Arduino Uno, Cảm biến nhiệt độ LM35.
+* **Vai trò:** Thiết kế mạch, lập trình vi điều khiển và quản lý mã nguồn trên GitHub.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### **Website Portfolio cá nhân**
+* Xây dựng trang web tĩnh sử dụng Jekyll và GitHub Pages để giới thiệu bản thân và các dự án kỹ thuật.
