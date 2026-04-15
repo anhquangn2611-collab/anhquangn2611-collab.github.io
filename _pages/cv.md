@@ -15,6 +15,7 @@ redirect_from:
   * Thời gian: 2023 - Hiện tại (Sinh viên năm 3)
 
 ## 🛠️ Kỹ năng
+
 | Lĩnh vực | Công nghệ & Công cụ |
 |---|---|
 | **Lập trình** | C/C++, Arduino, HTML cơ bản |
