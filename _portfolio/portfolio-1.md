@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dự án Arduino LM35: Hệ thống giám sát nhiệt độ E-Nanny"
+excerpt: "Hệ thống giám sát nhiệt độ trẻ nhỏ sử dụng cảm biến LM35 và Arduino Uno, hỗ trợ xuất dữ liệu chuẩn JSON."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## 📝 Mô tả dự án
+Đây là dự án trọng tâm trong học phần IoT, sử dụng cảm biến nhiệt độ **LM35** kết nối với vi điều khiển **Arduino Uno** để theo dõi nhiệt độ môi trường theo thời gian thực. Dự án hướng tới việc xây dựng một hệ thống "E-Nanny" thông minh giúp phụ huynh giám sát sức khỏe trẻ nhỏ.
+
+## 🚀 Tính năng chính
+* Đọc dữ liệu nhiệt độ chính xác cao từ cảm biến LM35.
+* Xử lý dữ liệu và hiển thị lên Serial Monitor.
+* Xuất dữ liệu định dạng **JSON** để sẵn sàng tích hợp với các ứng dụng web/mobile.
+
+## 🔗 Repository
+Mã nguồn chi tiết và các sơ đồ kết nối được lưu trữ tại đây:
+[Link đến dự án trên GitHub](https://github.com/anhquangn2611-collab/anhquangn2611-collab.github.io)
